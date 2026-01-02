@@ -1,2 +1,2 @@
 # Javascript-Basic-Scripts
-Basic scripts from exercises inside my learn javascript textbook
+Basic scripts I made from exercises or projects inside my learn javascript textbook
